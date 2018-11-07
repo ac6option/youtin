@@ -332,18 +332,18 @@ div#top_right h3 {
 
 }
 
-div#top_right ul li　dl dt {
+div#top_right dt{
     width: 247px;
     height: 152px;
-    float: left;
+    float:left;
     margin-right: 20px;
 
 }
 
 
 
-div#top_right ul li　dl dd{
-  float:right;
+div#top_right dd{
+
   width: auto;
   height: 152px;
 
